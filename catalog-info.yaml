@@ -9,7 +9,7 @@ metadata:
     github.com/project-slug: Backstage-IDP-PoC/sm-python-test-repo-03
     backstage.io/techdocs-ref: dir:.
     jenkins.io/job-full-name: Backstage_PoC/sm-python-test-repo-03/main
-    argocd/app-name: sm-python-test-repo-03-qa
+    argocd/app-name: sm-python-test-repo-03-prod
     backstage.io/kubernetes-id: sm-python-test-repo-03
     sonarqube.org/project-key: sm-python-test-repo-03
 
